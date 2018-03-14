@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)
 
 注：名单不分排名，不定期补充更新
 
@@ -1040,8 +1040,9 @@ MapReduce 框架和库。
 *   Plan：如有神助地编写 crontab 文件。[官网](https://github.com/fengsp/plan)
 *   schedule：人性化的 Python 任务调度库。[官网](https://github.com/dbader/schedule)
 *   Spiff：使用纯 Python 实现的强大的工作流引擎。[官网](https://github.com/knipknap/SpiffWorkflow)
-*   TaskFlow：一个可以让你方便执行任务的 Python 库，一致并且可靠。[官网](http://docs.openstack.org/developer/taskflow/)
-
+*   TaskFlow：一个可以让你方便执行任务的 Python 库，一致并且可靠。[官网](http://docs.openstack.org/developer/taskflow/)
+*   AirFlow：Airflow 是Airbnb公司开源的，是一个工作流分配管理系统，通过有向非循环图的方式管理任务流程，设置任务依赖关系和时间调度。[官方](https://airflow.incubator.apache.org/)
+ 
 ### 外来函数接口
 
 使用外来函数接口的库。
